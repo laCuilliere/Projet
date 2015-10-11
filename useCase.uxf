@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>280</x>
+      <y>110</y>
+      <w>320</w>
+      <h>600</h>
+    </coordinates>
+    <panel_attributes>Application LaCuillière
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>620</x>
+      <y>60</y>
+      <w>60</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Client</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>290</x>
+      <y>140</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>UC01_Rechercher
+restaurant</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>420</x>
+      <y>110</y>
+      <w>230</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;50.0;210.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>360</x>
+      <y>330</y>
+      <w>130</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>UC03_Avis</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>460</x>
+      <y>210</y>
+      <w>130</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>UC02_Réserver
+restaurant</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>480</x>
+      <y>160</y>
+      <w>190</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;200.0;170.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>560</x>
+      <y>140</y>
+      <w>80</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;80.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>180</x>
+      <y>470</y>
+      <w>100</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Restaurateur</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>370</x>
+      <y>480</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>UC04_Gérer
+restaurant</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>370</x>
+      <y>540</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>UC05_Gérer
+offres/cartes</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>370</x>
+      <y>610</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>UC06_Gérer
+réservation</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>480</y>
+      <w>150</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;130.0;30.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>260</x>
+      <y>510</y>
+      <w>130</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;110.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>260</x>
+      <y>530</y>
+      <w>130</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;110.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>340</x>
+      <y>180</y>
+      <w>110</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;50.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>440</x>
+      <y>260</y>
+      <w>100</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>80.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>400</x>
+      <y>170</y>
+      <w>90</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;70.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>730</x>
+      <y>0</y>
+      <w>220</w>
+      <h>330</h>
+    </coordinates>
+    <panel_attributes>UC01
+1. Le client 
+ * choisit parmi nos sélections
+	- les plus réservés
+	- les meilleurs avis
+	- les meilleurs promos
+	- nous choisissons pour vous (offres personnalisées en fonction des précédents repas du client)
+ * et/ou entre ses critères :
+	- géolocalisation (et/ou)
+	- localisation
+	- nb de personnes
+	- date
+	- heure
+	- mot clé (nom, adresse, métro)
+	- type cuisine
+2. Le client consulte l'offre
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>730</x>
+      <y>340</y>
+      <w>220</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>UC02
+1.1 Le client peut modifier :
+	- date
+	- heure
+	- nb de personnes
+1.1.2 Le client valide la réservation
+
+1.2 Le client peut supprimer sa réservation
+1.2.1 Le client valide la réservation
+
+2. Le client reçoit une confirmation de la réservation
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>730</x>
+      <y>520</y>
+      <w>220</w>
+      <h>210</h>
+    </coordinates>
+    <panel_attributes>UC03
+1. Le client peut consulter les avis d'un restaurant depuis sa page
+1.1 Le client peut commenter des avis
+1.2 Le client peut noter la pertinence d'un avis (+ ou -)
+2. Le client peut ajouter un avis
+3. Le client peut modifier son avis 
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>30</x>
+      <y>80</y>
+      <w>220</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>UC04
+1. Le restaurateur peut créer une fiche restaurant
+2. Il peut supprimer un restaurant
+3. Il peut mettre à jour sa fiche restaurant
+4. Il peut voir les avis sur son restaurant
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>30</x>
+      <y>270</y>
+      <w>220</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>UC05
+1. Le restaurateur peut ajouter une offre
+2. Il peut modifier une offre
+3. Il peut ajouter une carte
+4. Il peut modifier la carte
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>30</x>
+      <y>520</y>
+      <w>220</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>UC06
+1. Le restaurateur peut consulter la liste des réservations
+2. Il peut confirmer que le client est bien venu
+3. Il peut annuler une réservation
+
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
