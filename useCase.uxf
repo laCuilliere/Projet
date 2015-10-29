@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.2">
+<diagram program="umlet" version="13.3">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>280</x>
+      <x>270</x>
       <y>110</y>
       <w>320</w>
       <h>600</h>
@@ -16,8 +16,8 @@ halign=center</panel_attributes>
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>620</x>
-      <y>60</y>
+      <x>640</x>
+      <y>180</y>
       <w>60</w>
       <h>100</h>
     </coordinates>
@@ -27,8 +27,8 @@ halign=center</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>290</x>
-      <y>140</y>
+      <x>360</x>
+      <y>160</y>
       <w>140</w>
       <h>50</h>
     </coordinates>
@@ -39,19 +39,19 @@ restaurant</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>110</y>
-      <w>230</w>
+      <x>490</x>
+      <y>170</y>
+      <w>180</w>
       <h>70</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;50.0;210.0;10.0</additional_attributes>
+    <additional_attributes>10.0;10.0;160.0;50.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
       <x>360</x>
-      <y>330</y>
+      <y>370</y>
       <w>130</w>
       <h>60</h>
     </coordinates>
@@ -61,8 +61,8 @@ restaurant</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>460</x>
-      <y>210</y>
+      <x>360</x>
+      <y>260</y>
       <w>130</w>
       <h>60</h>
     </coordinates>
@@ -74,28 +74,28 @@ restaurant</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>480</x>
-      <y>160</y>
+      <y>210</y>
       <w>190</w>
-      <h>220</h>
+      <h>210</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;200.0;170.0;10.0</additional_attributes>
+    <additional_attributes>10.0;190.0;170.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>560</x>
-      <y>140</y>
-      <w>80</w>
+      <x>480</x>
+      <y>210</y>
+      <w>190</w>
       <h>100</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;80.0;60.0;10.0</additional_attributes>
+    <additional_attributes>10.0;80.0;170.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>180</x>
+      <x>170</x>
       <y>470</y>
       <w>100</w>
       <h>100</h>
@@ -106,7 +106,7 @@ restaurant</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>370</x>
+      <x>360</x>
       <y>480</y>
       <w>140</w>
       <h>50</h>
@@ -118,7 +118,7 @@ restaurant</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>370</x>
+      <x>360</x>
       <y>540</y>
       <w>140</w>
       <h>50</h>
@@ -130,7 +130,7 @@ offres/cartes</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>370</x>
+      <x>360</x>
       <y>610</y>
       <w>140</w>
       <h>50</h>
@@ -142,7 +142,7 @@ réservation</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>240</x>
+      <x>230</x>
       <y>480</y>
       <w>150</w>
       <h>50</h>
@@ -153,68 +153,68 @@ réservation</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>260</x>
-      <y>510</y>
-      <w>130</w>
-      <h>80</h>
+      <x>230</x>
+      <y>490</y>
+      <w>150</w>
+      <h>100</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;10.0;110.0;60.0</additional_attributes>
+    <additional_attributes>10.0;10.0;130.0;80.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>260</x>
-      <y>530</y>
-      <w>130</w>
-      <h>130</h>
+      <x>230</x>
+      <y>490</y>
+      <w>150</w>
+      <h>170</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;10.0;110.0;110.0</additional_attributes>
+    <additional_attributes>10.0;10.0;130.0;150.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
+      <x>270</x>
       <y>180</y>
       <w>110</w>
-      <h>170</h>
+      <h>240</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;50.0;150.0</additional_attributes>
+    <additional_attributes>90.0;10.0;10.0;10.0;10.0;220.0;90.0;220.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>260</y>
-      <w>100</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>lt=.&gt;
-&lt;&lt;extends&gt;&gt;</panel_attributes>
-    <additional_attributes>80.0;10.0;10.0;70.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>400</x>
-      <y>170</y>
+      <x>410</x>
+      <y>310</y>
       <w>90</w>
-      <h>70</h>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=.&gt;
 &lt;&lt;extends&gt;&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;70.0;50.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>410</x>
+      <y>200</y>
+      <w>90</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>730</x>
+      <x>720</x>
       <y>0</y>
-      <w>220</w>
-      <h>330</h>
+      <w>230</w>
+      <h>310</h>
     </coordinates>
     <panel_attributes>UC01
 1. Le client 
@@ -238,16 +238,17 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>730</x>
-      <y>340</y>
-      <w>220</w>
-      <h>170</h>
+      <x>720</x>
+      <y>320</y>
+      <w>230</w>
+      <h>240</h>
     </coordinates>
     <panel_attributes>UC02
-1.1 Le client peut modifier :
+1.1 Le client peut choisir/modifier :
 	- date
 	- heure
 	- nb de personnes
+	
 1.1.2 Le client valide la réservation
 
 1.2 Le client peut supprimer sa réservation
@@ -260,10 +261,10 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>730</x>
-      <y>520</y>
-      <w>220</w>
-      <h>210</h>
+      <x>720</x>
+      <y>570</y>
+      <w>230</w>
+      <h>170</h>
     </coordinates>
     <panel_attributes>UC03
 1. Le client peut consulter les avis d'un restaurant depuis sa page
@@ -277,7 +278,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>30</x>
+      <x>20</x>
       <y>80</y>
       <w>220</w>
       <h>170</h>
@@ -293,10 +294,10 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>30</x>
+      <x>20</x>
       <y>270</y>
       <w>220</w>
-      <h>170</h>
+      <h>160</h>
     </coordinates>
     <panel_attributes>UC05
 1. Le restaurateur peut ajouter une offre
@@ -309,8 +310,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>30</x>
-      <y>520</y>
+      <x>20</x>
+      <y>570</y>
       <w>220</w>
       <h>160</h>
     </coordinates>

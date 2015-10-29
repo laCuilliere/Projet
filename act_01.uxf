@@ -52,7 +52,7 @@ recherche</panel_attributes>
     <id>UMLState</id>
     <coordinates>
       <x>150</x>
-      <y>190</y>
+      <y>210</y>
       <w>100</w>
       <h>30</h>
     </coordinates>
@@ -100,11 +100,11 @@ recherche</panel_attributes>
       <x>190</x>
       <y>140</y>
       <w>90</w>
-      <h>70</h>
+      <h>90</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [barre]</panel_attributes>
-    <additional_attributes>10.0;50.0;10.0;10.0;70.0;10.0</additional_attributes>
+    <additional_attributes>10.0;70.0;10.0;10.0;70.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -178,12 +178,12 @@ recherche</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>190</x>
-      <y>210</y>
-      <w>60</w>
-      <h>100</h>
+      <y>230</y>
+      <w>110</w>
+      <h>170</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>40.0;80.0;10.0;80.0;10.0;10.0</additional_attributes>
+    <additional_attributes>90.0;150.0;10.0;150.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
@@ -363,6 +363,18 @@ type=sender</panel_attributes>
       <h>20</h>
     </coordinates>
     <panel_attributes>type=final</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>70</x>
+      <y>740</y>
+      <w>270</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>j'ai changé c'est pas barre de rechercher mais plus naviguer dans la page d'accueil
+On n'a pas besoin de mettre les flèches de retour ? (vers Liste Resto)</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
