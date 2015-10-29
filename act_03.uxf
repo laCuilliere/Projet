@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.2">
+<diagram program="umlet" version="13.3">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLSpecialState</id>
@@ -55,7 +55,7 @@ valign=top</panel_attributes>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>View Votes</panel_attributes>
+    <panel_attributes>Voir les avis</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -66,7 +66,7 @@ valign=top</panel_attributes>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Search
+    <panel_attributes>Recherche
 Restaurant
 bg=yellow
 type=sender</panel_attributes>
@@ -81,7 +81,7 @@ type=sender</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>Restaurant
-found
+trouvé
 bg=yellow
 type=receiver</panel_attributes>
     <additional_attributes/>
@@ -105,7 +105,7 @@ type=receiver</panel_attributes>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Add Vote</panel_attributes>
+    <panel_attributes>Ajouter avis</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -131,25 +131,14 @@ type=receiver</panel_attributes>
     <additional_attributes>10.0;160.0;10.0;10.0;230.0;10.0</additional_attributes>
   </element>
   <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>350</x>
-      <y>200</y>
-      <w>80</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;70.0;10.0;50.0;60.0;50.0;60.0;10.0;40.0;10.0</additional_attributes>
-  </element>
-  <element>
     <id>UMLState</id>
     <coordinates>
-      <x>570</x>
+      <x>510</x>
       <y>270</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Vote added</panel_attributes>
+    <panel_attributes>Avis ajouté</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -157,54 +146,55 @@ type=receiver</panel_attributes>
     <coordinates>
       <x>400</x>
       <y>280</y>
-      <w>190</w>
+      <w>130</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>170.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>110.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>120</x>
+      <x>100</x>
       <y>440</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Select Vote</panel_attributes>
+    <panel_attributes>Sélection
+Avis</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>570</x>
+      <x>510</x>
       <y>320</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Vote modified</panel_attributes>
+    <panel_attributes>Avis modifié</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>430</x>
+      <x>410</x>
       <y>330</y>
-      <w>160</w>
+      <w>120</w>
       <h>140</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>140.0;10.0;70.0;10.0;10.0;120.0</additional_attributes>
+    <additional_attributes>100.0;10.0;70.0;10.0;70.0;120.0;10.0;120.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>340</x>
+      <x>320</x>
       <y>440</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Modify Vote</panel_attributes>
+    <panel_attributes>Modifier avis</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -212,11 +202,11 @@ type=receiver</panel_attributes>
     <coordinates>
       <x>130</x>
       <y>390</y>
-      <w>50</w>
+      <w>30</w>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>30.0;50.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSpecialState</id>
@@ -232,25 +222,25 @@ type=receiver</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>210</x>
+      <x>190</x>
       <y>450</y>
-      <w>60</w>
+      <w>80</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>40.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>260</x>
       <y>380</y>
-      <w>160</w>
+      <w>140</w>
       <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [</panel_attributes>
-    <additional_attributes>140.0;60.0;140.0;20.0;10.0;20.0;10.0;60.0</additional_attributes>
+    <additional_attributes>120.0;60.0;120.0;20.0;10.0;20.0;10.0;60.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -274,5 +264,38 @@ type=receiver</panel_attributes>
     <panel_attributes>plusieurs diag ?
 bg=red</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>600</x>
+      <y>280</y>
+      <w>90</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLObject</id>
+    <coordinates>
+      <x>670</x>
+      <y>270</y>
+      <w>60</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Avis</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>360</x>
+      <y>220</y>
+      <w>30</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>
