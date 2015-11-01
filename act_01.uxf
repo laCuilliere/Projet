@@ -7,7 +7,7 @@
       <x>110</x>
       <y>50</y>
       <w>330</w>
-      <h>650</h>
+      <h>660</h>
     </coordinates>
     <panel_attributes>Client
 valign=top</panel_attributes>
@@ -19,7 +19,7 @@ valign=top</panel_attributes>
       <x>450</x>
       <y>50</y>
       <w>350</w>
-      <h>650</h>
+      <h>660</h>
     </coordinates>
     <panel_attributes>System
 valign=top</panel_attributes>
@@ -56,8 +56,7 @@ recherche</panel_attributes>
       <w>100</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>Barre de
-recherche</panel_attributes>
+    <panel_attributes>Naviguer</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -236,11 +235,12 @@ du restaurant</panel_attributes>
     <coordinates>
       <x>300</x>
       <y>610</y>
-      <w>30</w>
-      <h>60</h>
+      <w>100</w>
+      <h>70</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;-
+[réservation]</panel_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -250,7 +250,8 @@ du restaurant</panel_attributes>
       <w>150</w>
       <h>320</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
     <additional_attributes>70.0;10.0;10.0;10.0;10.0;300.0;130.0;300.0</additional_attributes>
   </element>
   <element>
@@ -334,7 +335,7 @@ du restaurant</panel_attributes>
     <id>UMLState</id>
     <coordinates>
       <x>260</x>
-      <y>650</y>
+      <y>660</y>
       <w>140</w>
       <h>40</h>
     </coordinates>
@@ -373,8 +374,8 @@ type=sender</panel_attributes>
       <w>270</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>j'ai changé c'est pas barre de rechercher mais plus naviguer dans la page d'accueil
-On n'a pas besoin de mettre les flèches de retour ? (vers Liste Resto)</panel_attributes>
+    <panel_attributes>-j'ai changé c'est pas barre de rechercher mais plus naviguer dans la page d'accueil (les meilleurs restos, ...)
+-On n'a pas besoin de mettre les flèches de retour ? (vers Liste Resto)</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
