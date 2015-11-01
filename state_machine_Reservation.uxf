@@ -50,11 +50,11 @@
     <coordinates>
       <x>360</x>
       <y>110</y>
-      <w>90</w>
+      <w>80</w>
       <h>80</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-[réserver]</panel_attributes>
+réserver</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
   <element>
@@ -62,11 +62,11 @@
     <coordinates>
       <x>360</x>
       <y>200</y>
-      <w>110</w>
+      <w>100</w>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-[setAMangé]</panel_attributes>
+setAMangé</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
@@ -78,7 +78,7 @@
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-[supprimer] ou [après date réservation]</panel_attributes>
+supprimer ou [après date réservation]</panel_attributes>
     <additional_attributes>10.0;20.0;280.0;20.0</additional_attributes>
   </element>
 </diagram>

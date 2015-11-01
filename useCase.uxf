@@ -301,7 +301,7 @@ bg=yellow</panel_attributes>
     </coordinates>
     <panel_attributes>UC05
 1. Le restaurateur peut ajouter une offre
-2. Il peut modifier une offre
+2. Il peut modifier une offre (à supprimer)
 3. Il peut ajouter une carte
 4. Il peut modifier la carte
 bg=yellow</panel_attributes>
