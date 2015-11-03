@@ -5,7 +5,7 @@
     <id>UMLGeneric</id>
     <coordinates>
       <x>60</x>
-      <y>140</y>
+      <y>80</y>
       <w>240</w>
       <h>140</h>
     </coordinates>
@@ -17,8 +17,8 @@ Page : Accueil</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>90</x>
-      <y>180</y>
-      <w>160</w>
+      <y>120</y>
+      <w>170</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>Suggestion restaurants</panel_attributes>
@@ -28,8 +28,8 @@ Page : Accueil</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>90</x>
-      <y>230</y>
-      <w>160</w>
+      <y>170</y>
+      <w>170</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>Recherche restaurant</panel_attributes>
@@ -39,7 +39,7 @@ Page : Accueil</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>390</x>
-      <y>140</y>
+      <y>80</y>
       <w>230</w>
       <h>140</h>
     </coordinates>
@@ -51,7 +51,7 @@ Page : Restaurant</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>420</x>
-      <y>180</y>
+      <y>120</y>
       <w>160</w>
       <h>30</h>
     </coordinates>
@@ -62,7 +62,7 @@ Page : Restaurant</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>420</x>
-      <y>230</y>
+      <y>170</y>
       <w>160</w>
       <h>30</h>
     </coordinates>
@@ -73,8 +73,8 @@ Page : Restaurant</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>330</x>
-      <y>390</y>
-      <w>180</w>
+      <y>330</y>
+      <w>190</w>
       <h>50</h>
     </coordinates>
     <panel_attributes>symbol=component
@@ -85,8 +85,8 @@ Page : Reservation</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>540</x>
-      <y>390</y>
-      <w>180</w>
+      <y>330</y>
+      <w>190</w>
       <h>50</h>
     </coordinates>
     <panel_attributes>symbol=component
@@ -97,7 +97,7 @@ Page : Avis détaillé</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>290</x>
-      <y>200</y>
+      <y>140</y>
       <w>80</w>
       <h>50</h>
     </coordinates>
@@ -108,7 +108,7 @@ Page : Avis détaillé</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>350</x>
-      <y>210</y>
+      <y>150</y>
       <w>60</w>
       <h>30</h>
     </coordinates>
@@ -119,18 +119,18 @@ Page : Avis détaillé</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>410</x>
-      <y>270</y>
+      <y>210</y>
       <w>110</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=[v]-(</panel_attributes>
-    <additional_attributes>90.0;10.0;20.0;30.0;20.0;60.0</additional_attributes>
+    <additional_attributes>90.0;10.0;90.0;30.0;20.0;30.0;20.0;60.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>420</x>
-      <y>340</y>
+      <y>280</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -140,20 +140,20 @@ Page : Avis détaillé</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>490</x>
-      <y>250</y>
-      <w>230</w>
+      <x>530</x>
+      <y>190</y>
+      <w>190</w>
       <h>160</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 m2=&lt;&lt;delegate&gt;&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;140.0;50.0;140.0;140.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0;100.0;50.0;100.0;140.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
       <x>30</x>
-      <y>630</y>
+      <y>570</y>
       <w>600</w>
       <h>260</h>
     </coordinates>
@@ -165,19 +165,19 @@ Restaurateur</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>60</x>
-      <y>390</y>
+      <y>330</y>
       <w>200</w>
       <h>50</h>
     </coordinates>
     <panel_attributes>symbol=component
-Page : compte ???</panel_attributes>
+Page : compte</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>140</x>
-      <y>270</y>
+      <y>210</y>
       <w>50</w>
       <h>80</h>
     </coordinates>
@@ -188,7 +188,7 @@ Page : compte ???</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>150</x>
-      <y>330</y>
+      <y>270</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -199,18 +199,18 @@ Page : compte ???</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>200</x>
-      <y>270</y>
+      <y>210</y>
       <w>220</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=[v]-(</panel_attributes>
-    <additional_attributes>200.0;10.0;20.0;30.0;20.0;60.0</additional_attributes>
+    <additional_attributes>200.0;10.0;200.0;30.0;20.0;30.0;20.0;60.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>210</x>
-      <y>340</y>
+      <y>280</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -221,7 +221,7 @@ Page : compte ???</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>290</x>
-      <y>410</y>
+      <y>350</y>
       <w>60</w>
       <h>50</h>
     </coordinates>
@@ -232,7 +232,7 @@ Page : compte ???</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>250</x>
-      <y>420</y>
+      <y>360</y>
       <w>60</w>
       <h>30</h>
     </coordinates>
@@ -243,7 +243,7 @@ Page : compte ???</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>620</x>
-      <y>550</y>
+      <y>490</y>
       <w>200</w>
       <h>60</h>
     </coordinates>
@@ -255,7 +255,7 @@ Page : Connexion</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>700</x>
-      <y>450</y>
+      <y>390</y>
       <w>50</w>
       <h>70</h>
     </coordinates>
@@ -266,7 +266,7 @@ Page : Connexion</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>710</x>
-      <y>500</y>
+      <y>440</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -277,7 +277,7 @@ Page : Connexion</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>50</x>
-      <y>680</y>
+      <y>620</y>
       <w>210</w>
       <h>110</h>
     </coordinates>
@@ -289,7 +289,7 @@ Page : Restaurant</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>60</x>
-      <y>730</y>
+      <y>670</y>
       <w>160</w>
       <h>40</h>
     </coordinates>
@@ -301,7 +301,7 @@ Reservations</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>370</x>
-      <y>680</y>
+      <y>620</y>
       <w>200</w>
       <h>40</h>
     </coordinates>
@@ -313,7 +313,7 @@ Réservation détaillée</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>370</x>
-      <y>750</y>
+      <y>690</y>
       <w>200</w>
       <h>40</h>
     </coordinates>
@@ -325,7 +325,7 @@ Menu</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>370</x>
-      <y>830</y>
+      <y>770</y>
       <w>200</w>
       <h>40</h>
     </coordinates>
@@ -337,7 +337,7 @@ Offres</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>250</x>
-      <y>680</y>
+      <y>620</y>
       <w>80</w>
       <h>50</h>
     </coordinates>
@@ -348,7 +348,7 @@ Offres</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>310</x>
-      <y>690</y>
+      <y>630</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
@@ -359,7 +359,7 @@ Offres</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>250</x>
-      <y>750</y>
+      <y>690</y>
       <w>80</w>
       <h>50</h>
     </coordinates>
@@ -370,7 +370,7 @@ Offres</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>310</x>
-      <y>760</y>
+      <y>700</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
@@ -381,7 +381,7 @@ Offres</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>130</x>
-      <y>780</y>
+      <y>720</y>
       <w>200</w>
       <h>100</h>
     </coordinates>
@@ -392,7 +392,7 @@ Offres</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>310</x>
-      <y>840</y>
+      <y>780</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
@@ -403,7 +403,7 @@ Offres</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>30</x>
-      <y>80</y>
+      <y>20</y>
       <w>720</w>
       <h>380</h>
     </coordinates>
@@ -415,7 +415,7 @@ Client</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>620</x>
-      <y>670</y>
+      <y>610</y>
       <w>130</w>
       <h>110</h>
     </coordinates>
@@ -426,7 +426,7 @@ Client</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>710</x>
-      <y>600</y>
+      <y>540</y>
       <w>30</w>
       <h>90</h>
     </coordinates>
