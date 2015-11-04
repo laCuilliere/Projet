@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.2">
+<diagram program="umlet" version="13.3">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLObject</id>
     <coordinates>
       <x>0</x>
       <y>0</y>
-      <w>330</w>
+      <w>340</w>
       <h>750</h>
     </coordinates>
     <panel_attributes>Client
@@ -28,9 +28,9 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>730</x>
+      <x>690</x>
       <y>0</y>
-      <w>240</w>
+      <w>280</w>
       <h>750</h>
     </coordinates>
     <panel_attributes>Restaurateur
@@ -78,11 +78,11 @@ réservation</panel_attributes>
     <coordinates>
       <x>190</x>
       <y>270</y>
-      <w>90</w>
+      <w>100</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-[réserver]</panel_attributes>
+[réservation]</panel_attributes>
     <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -242,7 +242,7 @@ des disponibilités</panel_attributes>
     <coordinates>
       <x>270</x>
       <y>190</y>
-      <w>490</w>
+      <w>470</w>
       <h>280</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
@@ -347,7 +347,7 @@ confirmation</panel_attributes>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Réception
+    <panel_attributes>Recevoir
 confirmation</panel_attributes>
     <additional_attributes/>
   </element>
@@ -359,7 +359,7 @@ confirmation</panel_attributes>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Réception
+    <panel_attributes>Recevoir
 confirmation</panel_attributes>
     <additional_attributes/>
   </element>
@@ -474,7 +474,7 @@ type=sender</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>Reservation
-validé</panel_attributes>
+[validée]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>

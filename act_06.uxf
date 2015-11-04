@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.2">
+<diagram program="umlet" version="13.3">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>50</x>
+      <x>40</x>
       <y>10</y>
-      <w>320</w>
+      <w>330</w>
       <h>440</h>
     </coordinates>
     <panel_attributes>Restaurateur
@@ -16,9 +16,9 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>390</x>
+      <x>370</x>
       <y>10</y>
-      <w>310</w>
+      <w>330</w>
       <h>550</h>
     </coordinates>
     <panel_attributes>System
@@ -28,7 +28,7 @@ valign=top</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>80</x>
+      <x>70</x>
       <y>60</y>
       <w>20</w>
       <h>20</h>
@@ -39,7 +39,7 @@ valign=top</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>90</x>
+      <x>80</x>
       <y>60</y>
       <w>90</w>
       <h>30</h>
@@ -50,7 +50,7 @@ valign=top</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>150</x>
+      <x>140</x>
       <y>50</y>
       <w>110</w>
       <h>40</h>
@@ -64,7 +64,7 @@ type=receiver</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>190</x>
+      <x>180</x>
       <y>80</y>
       <w>30</w>
       <h>70</h>
@@ -75,7 +75,7 @@ type=receiver</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>140</x>
+      <x>130</x>
       <y>130</y>
       <w>120</w>
       <h>40</h>
@@ -87,7 +87,7 @@ liste réservations</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>190</x>
+      <x>180</x>
       <y>160</y>
       <w>30</w>
       <h>60</h>
@@ -98,7 +98,7 @@ liste réservations</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>180</x>
+      <x>170</x>
       <y>200</y>
       <w>40</w>
       <h>40</h>
@@ -109,7 +109,7 @@ liste réservations</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>80</x>
+      <x>70</x>
       <y>270</y>
       <w>120</w>
       <h>40</h>
@@ -121,7 +121,7 @@ du client</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>220</x>
+      <x>210</x>
       <y>270</y>
       <w>120</w>
       <h>40</h>
@@ -133,7 +133,7 @@ réservation</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>330</x>
+      <x>320</x>
       <y>280</y>
       <w>120</w>
       <h>30</h>
@@ -144,19 +144,19 @@ réservation</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>430</x>
+      <x>420</x>
       <y>270</y>
       <w>120</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Réservation
-supprimée</panel_attributes>
+    <panel_attributes>Supprimer
+réservation</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
+      <x>110</x>
       <y>210</y>
       <w>80</w>
       <h>80</h>
@@ -167,7 +167,7 @@ supprimée</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>210</x>
+      <x>200</x>
       <y>210</y>
       <w>90</w>
       <h>80</h>
@@ -178,7 +178,7 @@ supprimée</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
+      <x>110</x>
       <y>300</y>
       <w>330</w>
       <h>100</h>
@@ -189,19 +189,19 @@ supprimée</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>430</x>
+      <x>420</x>
       <y>360</y>
       <w>120</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Réservation
-aboutie</panel_attributes>
+    <panel_attributes>Aboutir
+Réservation</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>540</x>
+      <x>530</x>
       <y>370</y>
       <w>80</w>
       <h>100</h>
@@ -212,7 +212,7 @@ aboutie</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>550</x>
+      <x>540</x>
       <y>450</y>
       <w>130</w>
       <h>60</h>
@@ -225,9 +225,9 @@ du client</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>720</x>
+      <x>700</x>
       <y>10</y>
-      <w>170</w>
+      <w>180</w>
       <h>550</h>
     </coordinates>
     <panel_attributes>Client
@@ -237,7 +237,7 @@ valign=top</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>670</x>
+      <x>660</x>
       <y>470</y>
       <w>90</w>
       <h>30</h>
@@ -248,7 +248,7 @@ valign=top</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>740</x>
+      <x>730</x>
       <y>450</y>
       <w>130</w>
       <h>60</h>
@@ -260,7 +260,7 @@ incrémentés</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>540</x>
+      <x>530</x>
       <y>280</y>
       <w>260</w>
       <h>30</h>
@@ -271,7 +271,7 @@ incrémentés</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>790</x>
+      <x>780</x>
       <y>300</y>
       <w>30</w>
       <h>170</h>
@@ -282,7 +282,7 @@ incrémentés</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>870</x>
+      <x>860</x>
       <y>280</y>
       <w>20</w>
       <h>20</h>
@@ -293,7 +293,7 @@ incrémentés</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>440</x>
+      <x>430</x>
       <y>190</y>
       <w>100</w>
       <h>40</h>
@@ -305,7 +305,7 @@ incrémentés</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>480</x>
+      <x>470</x>
       <y>220</y>
       <w>30</w>
       <h>70</h>
@@ -316,19 +316,19 @@ incrémentés</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>430</x>
+      <x>420</x>
       <y>460</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>Reservation
-aMangé</panel_attributes>
+[aMangé]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>470</x>
+      <x>460</x>
       <y>390</y>
       <w>30</w>
       <h>90</h>
@@ -339,7 +339,7 @@ aMangé</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>780</x>
+      <x>770</x>
       <y>270</y>
       <w>40</w>
       <h>40</h>
@@ -350,7 +350,7 @@ aMangé</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
+      <x>800</x>
       <y>280</y>
       <w>80</w>
       <h>30</h>
@@ -361,7 +361,7 @@ aMangé</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>130</x>
+      <x>120</x>
       <y>470</y>
       <w>180</w>
       <h>30</h>

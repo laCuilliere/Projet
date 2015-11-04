@@ -901,7 +901,7 @@ composants : completed]</panel_attributes>
       <h>50</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>110.0;30.0;120.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>120.0;30.0;120.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
