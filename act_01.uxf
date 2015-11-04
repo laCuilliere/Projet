@@ -4,9 +4,9 @@
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>140</x>
+      <x>170</x>
       <y>0</y>
-      <w>330</w>
+      <w>300</w>
       <h>660</h>
     </coordinates>
     <panel_attributes>Client
@@ -18,7 +18,7 @@ valign=top</panel_attributes>
     <coordinates>
       <x>480</x>
       <y>0</y>
-      <w>350</w>
+      <w>320</w>
       <h>660</h>
     </coordinates>
     <panel_attributes>System
@@ -364,6 +364,18 @@ type=sender</panel_attributes>
       <h>20</h>
     </coordinates>
     <panel_attributes>type=final</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>550</x>
+      <y>610</y>
+      <w>220</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Act01_RechercherRestaurant
+bg=green</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
