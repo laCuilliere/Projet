@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.3">
+<diagram program="umlet" version="13.2">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLSpecialState</id>
@@ -15,9 +15,9 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>330</x>
-      <y>230</y>
-      <w>160</w>
+      <x>300</x>
+      <y>300</y>
+      <w>200</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>Avis commenté pertinent</panel_attributes>
@@ -27,7 +27,7 @@
     <id>UMLState</id>
     <coordinates>
       <x>330</x>
-      <y>330</y>
+      <y>400</y>
       <w>150</w>
       <h>40</h>
     </coordinates>
@@ -40,30 +40,30 @@
     <coordinates>
       <x>400</x>
       <y>20</y>
-      <w>100</w>
+      <w>140</w>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-donnerAvis</panel_attributes>
+noterRestaurant</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>400</x>
-      <y>260</y>
+      <y>330</y>
       <w>160</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-noterPpertinenceAvis</panel_attributes>
+noterPertinenceAvis</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>150</x>
-      <y>270</y>
+      <y>340</y>
       <w>280</w>
       <h>190</h>
     </coordinates>
@@ -75,7 +75,7 @@ noterPpertinenceAvis</panel_attributes>
     <id>UMLState</id>
     <coordinates>
       <x>220</x>
-      <y>150</y>
+      <y>220</y>
       <w>350</w>
       <h>260</h>
     </coordinates>
@@ -101,17 +101,18 @@ valign=top
     <coordinates>
       <x>400</x>
       <y>100</y>
-      <w>30</w>
-      <h>70</h>
+      <w>100</w>
+      <h>140</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;-
+commenter</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
       <x>400</x>
-      <y>170</y>
+      <y>240</y>
       <w>20</w>
       <h>20</h>
     </coordinates>
@@ -122,7 +123,7 @@ valign=top
     <id>Relation</id>
     <coordinates>
       <x>400</x>
-      <y>180</y>
+      <y>250</y>
       <w>30</w>
       <h>70</h>
     </coordinates>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.3">
+<diagram program="umlet" version="13.2">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
       <x>410</x>
-      <y>110</y>
+      <y>100</y>
       <w>20</w>
       <h>20</h>
     </coordinates>
@@ -16,7 +16,7 @@
     <id>UMLState</id>
     <coordinates>
       <x>360</x>
-      <y>210</y>
+      <y>200</y>
       <w>120</w>
       <h>50</h>
     </coordinates>
@@ -27,7 +27,7 @@
     <id>UMLState</id>
     <coordinates>
       <x>360</x>
-      <y>330</y>
+      <y>320</y>
       <w>120</w>
       <h>50</h>
     </coordinates>
@@ -38,7 +38,7 @@
     <id>UMLSpecialState</id>
     <coordinates>
       <x>410</x>
-      <y>450</y>
+      <y>440</y>
       <w>20</w>
       <h>20</h>
     </coordinates>
@@ -49,7 +49,7 @@
     <id>UMLState</id>
     <coordinates>
       <x>280</x>
-      <y>160</y>
+      <y>150</y>
       <w>280</w>
       <h>240</h>
     </coordinates>
@@ -63,8 +63,8 @@ valign=top</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>410</x>
-      <y>120</y>
-      <w>100</w>
+      <y>110</y>
+      <w>110</w>
       <h>110</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
@@ -75,8 +75,8 @@ ajouterOffre</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>410</x>
-      <y>250</y>
-      <w>230</w>
+      <y>240</y>
+      <w>260</w>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
@@ -87,12 +87,12 @@ ajouterOffre</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>410</x>
-      <y>370</y>
-      <w>220</w>
-      <h>100</h>
+      <y>380</y>
+      <w>250</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
 [supprimer] ou [dateFin &lt; today]</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
 </diagram>
