@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="13.3">
+<diagram program="umlet" version="13.2">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLObject</id>
@@ -104,28 +104,6 @@ en cours</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>Liste réservation</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLObject</id>
-    <coordinates>
-      <x>570</x>
-      <y>110</y>
-      <w>100</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLObject</id>
-    <coordinates>
-      <x>580</x>
-      <y>100</y>
-      <w>100</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes/>
     <additional_attributes/>
   </element>
   <element>
